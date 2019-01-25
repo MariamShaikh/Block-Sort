@@ -1,0 +1,7 @@
+C:\Users\MAAZ KHAN\source\repos\BlockSort\BlockSort\bin\Debug\BlockSort.exe.config
+C:\Users\MAAZ KHAN\source\repos\BlockSort\BlockSort\bin\Debug\BlockSort.exe
+C:\Users\MAAZ KHAN\source\repos\BlockSort\BlockSort\bin\Debug\BlockSort.pdb
+C:\Users\MAAZ KHAN\source\repos\BlockSort\BlockSort\obj\Debug\BlockSort.csprojAssemblyReference.cache
+C:\Users\MAAZ KHAN\source\repos\BlockSort\BlockSort\obj\Debug\BlockSort.csproj.CoreCompileInputs.cache
+C:\Users\MAAZ KHAN\source\repos\BlockSort\BlockSort\obj\Debug\BlockSort.exe
+C:\Users\MAAZ KHAN\source\repos\BlockSort\BlockSort\obj\Debug\BlockSort.pdb
