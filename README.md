@@ -6,7 +6,7 @@ Mariam Shaikh (17b-062-CS)
 Syeda Ayman Maqsood (17b-013-CS)
 
 
-Block sort basically uses insertion and merge sort to sort a given array. First a linear search is performed, which checks if the given array is already sorted or not. If the linear search gives a false result, the original array is divided, resulting in two blocks A & B. These blocks are sorted using insertion sort.The subarrays are further divided, taking the square root of the size of the original array.
+Block sort basically uses insertion and merge sort to sort a given array. First a linear search is performed, which checks if the given array is already sorted or not. If the linear search gives a false result, the original array is divided, resulting in two blocks A & B. These blocks are sorted using insertion sort.
 Merge operation is applied on both the blocks (A & B), which sorts the array completely. 
 This code works efficiently on large sizes of data.
 
